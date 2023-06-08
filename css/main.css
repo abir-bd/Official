@@ -3409,9 +3409,9 @@ input::-moz-focus-inner {
     padding-top: 16rem;
   }
 
-  .contact-email {
-    font-size: 9vw;
-  }
+.contact-email {
+    font-size: 6vw;
+}
 
   .contact-infos {
     font-size: 3.6rem;
